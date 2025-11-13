@@ -51,6 +51,7 @@ It is part of my **Cloud Security training**; the template can be deployed in a 
 - The State Machine calls `iam: PutRolePolicy` to deny old tokens via a conditional policy.
 <img width="856" height="295" alt="Captura de pantalla 2025-11-06 a la(s) 1 30 18" src="https://github.com/user-attachments/assets/7278fe88-6b3c-43a7-a773-7a4a74811989" />
 
+<img width="629" height="379" alt="Captura de pantalla 2025-11-06 a la(s) 1 32 14" src="https://github.com/user-attachments/assets/f6bef6e8-591a-4833-87f5-5abcf39e3fad" />
 
 
 
