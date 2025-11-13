@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Node / Python (por si luego agregas demo scripts)
+node_modules/
+venv/
+.venv/
+
+# Credenciales y variables
+*.pem
+*.key
+.env
+.aws/
+credentials
+config
