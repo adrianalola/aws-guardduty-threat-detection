@@ -1,4 +1,4 @@
-# ☁️ AWS GuardDuty Threat Detection — Capstone
+# ☁️ AWS GuardDuty Threat Detection  Capstone Project 
 
 This project defines, with AWS CloudFormation (Infrastructure as Code), a vulnerable web app stack (OWASP Juice Shop) fronted by CloudFront and instrumented with **GuardDuty** to detect suspicious behaviour (e.g., SQL injection → credential abuse → data exfiltration).  
 It is part of my **Cloud Security training**; the template can be deployed in a personal AWS account (charges may apply).  
@@ -55,7 +55,7 @@ It is part of my **Cloud Security training**; the template can be deployed in a 
 
 
 ## ⚠️ Cost & Safety
-- Stack uses public subnets and intentionally vulnerable application (for learning).  
+- Stack uses public subnets and an intentionally vulnerable application (for learning).  
   **Do not expose real data.**  
 - Tear down with **CloudFormation → Delete stack**.
 
